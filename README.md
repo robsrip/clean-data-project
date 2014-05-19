@@ -15,10 +15,12 @@ The run_analysis.R contains a run_analysis function that when called returns the
 To run the script just type the following into the console
 
 source("run_analysis.R")
+
 df <- run_analysis()
 
 *Note the example drops the tidy data into a new data.frame df.
 
+I have included the code below with comments for each of the sections
 
 ##Code
 run_analysis <- function() {
