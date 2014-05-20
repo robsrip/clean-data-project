@@ -18,7 +18,7 @@ source("run_analysis.R")
 
 df <- run_analysis()
 
-*Note the example drops the tidy data into a new data.frame df.
+*Note the example drops the tidy data into a new data.frame df for you to manipulate at will. If you prefer to simply return the dataset to the console, you can just run run_analysis().
 
 I have included the code below with comments for each of the sections
 
