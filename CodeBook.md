@@ -93,3 +93,6 @@ The subject id and the activity label were included in the tidy data output
 * subject
 * activity
 
+#The Data
+For each variable listed above their is a value for the mean across all of the observations of that mesurement per user per activity in the tidy output.
+
